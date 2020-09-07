@@ -38,15 +38,19 @@ Once running, complete the tasks in Git-it. Completion of the assignment is the 
 [Submit that url using this form](https://forms.gle/hKL37abHZ7TEoyWT6).
 
 
-### Resources
+### 🔖 Resources
+
+#### First day materials
 
 - [Student guidelines](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md)
 - [How we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md)
 - [Using Slack](https://slack.com/resources/using-slack/slack-tutorials)
 - [Setting up your computer](https://github.com/momentumlearn/student-resources/blob/master/articles/setup.md)
+
+#### Command line & Git References
+
 - [Really friendly command-line intro](https://drive.google.com/open?id=1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb)
 - [Really friendly Git intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n)
-- [Git Cheat Sheet PDF](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
+- [Git Cheat Sheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git handbook from GitHub](https://guides.github.com/introduction/git-handbook/)
 - [Git Command Explorer](https://gitexplorer.com/)
-
-### Notes and video from class
