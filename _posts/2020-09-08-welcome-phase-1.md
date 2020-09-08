@@ -68,4 +68,4 @@ Once running, complete the tasks in Git-it. Completion of the assignment is the 
 
 - [Morning orientation/class](https://us02web.zoom.us/rec/share/IbsncjzWbys-RZYBv5iQIdCfvYeHtDmF-tAbe85GuT46N4iYxhpLuD3yyZNx1mJQ.JmhM-9oyBS2IDVhZ
 ) Access Passcode: Ympg!P8t
-- [Afternoon class]() _this video is still processing. I'll post this link as soon as it is available from Zoom.
+- [Afternoon class]() _This video is still processing. I'll post this link as soon as it is available from Zoom._
