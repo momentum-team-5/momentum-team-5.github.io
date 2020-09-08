@@ -52,4 +52,4 @@ Once running, complete the tasks in Git-it. Completion of the assignment is the 
 - [Really friendly Git intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n)
 - [Git Cheat Sheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Git handbook from GitHub](https://guides.github.com/introduction/git-handbook/)
-- [Git Command Explorer](https://gitexplorer.com/)
+- [Git Command Explorer -- this tool lets you look up commands by what you are trying to do](https://gitexplorer.com/)
