@@ -37,7 +37,6 @@ Once running, complete the tasks in Git-it. Completion of the assignment is the 
 
 [Submit that url using this form](https://forms.gle/hKL37abHZ7TEoyWT6).
 
-
 ### 🔖 Resources
 
 #### First day materials
@@ -49,7 +48,7 @@ Once running, complete the tasks in Git-it. Completion of the assignment is the 
 
 #### Command line & Git References
 
-- [Really friendly command-line intro](https://drive.google.com/open?id=1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb)
+- [Really friendly command-line intro](https://drive.google.com/file/d/1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb/view?usp=sharing)
 - [Really friendly Git intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n)
 - [Git Cheat Sheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Git handbook from GitHub](https://guides.github.com/introduction/git-handbook/)
