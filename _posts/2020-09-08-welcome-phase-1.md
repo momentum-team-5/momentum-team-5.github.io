@@ -19,6 +19,12 @@ tags: phase-1 orientation command-line git github
 3. Read the [Really friendly command-line intro](https://drive.google.com/open?id=1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb).
 4. Read the [Really friendly Git intro](https://drive.google.com/open?id=125rubyTQpBwmpi6I_UzUWfT1aXeHmy5n).
 5. Complete the Git-It tutorial (below) and [submit the form](https://forms.gle/hKL37abHZ7TEoyWT6).
+6. Write your answers to these questions:
+
+   - What would make this team and classroom a good space for learning for you?
+   - What would make this a safe and respectful place to work in?
+
+  Tomorrow we will start class with creating our team charter, which will include this content from each of you.
 
 ### Today's Assignment: Git It
 
@@ -53,3 +59,13 @@ Once running, complete the tasks in Git-it. Completion of the assignment is the 
 - [Git Cheat Sheet PDF](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Git handbook from GitHub](https://guides.github.com/introduction/git-handbook/)
 - [Git Command Explorer -- this tool lets you look up commands by what you are trying to do](https://gitexplorer.com/)
+
+
+### Notes & Video from class
+
+- [command line notes](https://github.com/momentum-team-5/notes/blob/main/command-line.md)
+- [git notes](https://github.com/momentum-team-5/notes/blob/main/git.md)
+
+- [Morning orientation/class](https://us02web.zoom.us/rec/share/IbsncjzWbys-RZYBv5iQIdCfvYeHtDmF-tAbe85GuT46N4iYxhpLuD3yyZNx1mJQ.JmhM-9oyBS2IDVhZ
+) Access Passcode: Ympg!P8t
+- [Afternoon class]() _this video is still processing. I'll post this link as soon as it is available from Zoom.
