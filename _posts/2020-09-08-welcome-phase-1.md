@@ -65,7 +65,5 @@ Once running, complete the tasks in Git-it. Completion of the assignment is the 
 
 - [command line notes](https://github.com/momentum-team-5/notes/blob/main/command-line.md)
 - [git notes](https://github.com/momentum-team-5/notes/blob/main/git.md)
-
-- [Morning orientation/class](https://us02web.zoom.us/rec/share/IbsncjzWbys-RZYBv5iQIdCfvYeHtDmF-tAbe85GuT46N4iYxhpLuD3yyZNx1mJQ.JmhM-9oyBS2IDVhZ
-) Access Passcode: Ympg!P8t
-- [Afternoon class]() _This video is still processing. I'll post this link as soon as it is available from Zoom._
+- [Morning orientation/class](https://us02web.zoom.us/rec/share/IbsncjzWbys-RZYBv5iQIdCfvYeHtDmF-tAbe85GuT46N4iYxhpLuD3yyZNx1mJQ.JmhM-9oyBS2IDVhZ) Access Passcode: Ympg!P8t
+- [Afternoon class](https://us02web.zoom.us/rec/share/CxEL1hgdXbVzbiwQ-x-WXgglwSbV8h3WaQeItsjJKL2udKBXjnM0bX4J3JFNXOS-.cmKNOvTGM5oCKmJn) Access Passcode: 2eC25v+k
