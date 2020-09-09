@@ -11,6 +11,8 @@ layout: default
   - Passcode: 095993
 - [Zoom co-working room](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09)
 - [Class GitHub organization](https://github.com/momentum-team-5)
+  - [code examples from class](https://github.com/momentum-team-5/examples)
+  - [notes/slides from class](https://github.com/momentum-team-5/notes)
 
 ## Guidelines and other meta-documentation
 
