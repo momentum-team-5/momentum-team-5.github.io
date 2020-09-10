@@ -18,7 +18,7 @@ tags: phase-1 css
 
 [Link to the assignment invitation](https://classroom.github.com/a/1qFmrO9f)
 
-This assignment is due on Monday, Sept 9, at 9:30 am.
+This assignment is due on Monday, Sept 14, at 9:30 am.
 
 ## Links and resources
 
