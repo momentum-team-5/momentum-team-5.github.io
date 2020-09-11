@@ -40,3 +40,8 @@ Before we had flexbox or grid built into CSS, we relied on floats for layout. Yo
 - [Floats 101 Demo](https://codepen.io/amygori/pen/BmEmGg)
 - [Simple float example](https://codepen.io/amygori/pen/qVwVjX)
 - [CSS-Tricks All About Floats](https://css-tricks.com/all-about-floats/)
+
+### Code & Video from class
+
+- [Flexbox example code](https://github.com/momentum-team-5/examples/tree/main/css-flexbox)
+- [Morning class video](https://us02web.zoom.us/rec/share/AKyK-i2nJQn5-Iq1iZmmGQtiId89sdFRbGCyqsjPO39IjhXhI_-E3HfLAbj33hPb.SfZQczGie6Aw2JxP) Access Passcode: 0A9Uq\$?G
