@@ -19,3 +19,4 @@ layout: default
 - [Student guidelines](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md)
 - [How we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md)
 - [Course outline & info]({% link course-outline.md %})
+- [Team Five Group Agreement]({% link team-charter.md %})
