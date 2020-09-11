@@ -47,4 +47,5 @@ This assignment is due on Monday, Sept 14, at 9:30 am.
 - [Garden store with css](https://github.com/momentum-team-5/examples/tree/main/garden-store-css)
 - [CSS notes](https://github.com/momentum-team-5/notes/blob/main/css.md)
 - [Morning class video](https://us02web.zoom.us/rec/share/V_7K43ksFhMJ3dlANegiv3psyEaU4_R_jQR8-MHRj1GKhO4oSzZOVuJJgQ_qOkti.owp71hJ80KpwbXG6) Access Passcode: a^i0wPdc
-- [Afternoon class video]()
+- [Afternoon class video](https://us02web.zoom.us/rec/share/qyoglU8156Lm_RtFkbRllBt3L76UP1Wbz2cYPP1cCxvywJmKaNKAfSIeGXJPBY7d.jJMclLv_uo_kPAOm) Access Passcode: sx4\*5wkP
+
