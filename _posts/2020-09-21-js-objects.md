@@ -31,5 +31,6 @@ tags: phase-1 javascript js objects
 ## Code & videos
 
 - [code example using object data](https://github.com/momentum-team-5/examples/tree/main/using-object-data)
+- [Notes on js objects](https://github.com/momentum-team-5/notes/blob/main/js-objects.md)
 - [Morning class video](https://us02web.zoom.us/rec/share/aXCOH3aE6p93FwsLqBiystHWiiVI0kncMt9N_HgfQ9DxsjX-7PHGKDp81tLqiwm9.S4Xv3e9lTXEdbrPN) Access Passcode: H6a=r!IV
-- [Afternoon class video]() _this is still processing but will be posted when it is available_
+- [Afternoon class video](https://us02web.zoom.us/rec/share/UE3m9PKw08oJeAlq7ci57FuLwRDsh9q906xw5h9LPEz1qP9a1ahXDwb7g0xao_E.AAz7QIX2D4ztreu6) Access Passcode: &%L6kUYc
