@@ -35,3 +35,9 @@ For more information about how the internet works and the mechanics of a request
 - [Cross-Origin Resource Sharing (CORS) explained by Julia Evans](https://twitter.com/b0rk/status/1162392625057583104)
 - [MDN Web Guide: AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 - [HTTP Basics](http://www.ntu.edu.sg/home/ehchua/programming/webprogramming/HTTP_Basics.html) - This is more detail than you really need right now, but has some instructive diagrams
+
+## Code and Videos
+
+- [Ajax todo list example from class](https://github.com/momentum-team-5/examples/tree/main/ajax-todo)
+- [Morning class video](https://us02web.zoom.us/rec/share/pzSVT-DilNj352gTZg2OL7l4GTMfg7uv8QUxikJuU40CLzGsWtyLAJnKQWXpYkPA.4_bn8O5mswYO1_t2) Access Passcode: \$e1A6nh%
+- [Afternoon class video](https://us02web.zoom.us/rec/share/fvBCzqoj6grkBhncg-kTO63a1-h-Z7PkPxHTdMiEBCwwhr2bdjfDdMfJB3HNfkY-.-n0r0Sr4_u-NWVtP) Access Passcode: y7D5n.pm
