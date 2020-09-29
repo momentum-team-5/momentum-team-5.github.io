@@ -20,3 +20,4 @@ layout: default
 - [How we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md)
 - [Course outline & info]({% link course-outline.md %})
 - [Team Five Group Agreement]({% link team-charter.md %})
+- [Technical Presentations Info]({% link technical-presentations.md %})
