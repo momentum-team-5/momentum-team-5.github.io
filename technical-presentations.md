@@ -6,7 +6,7 @@ layout: default
 
 # Team Five Technical Presentations
 
-- Phase 1: _Thursday, October 1, 2020, afternoon (exact time TBD)_
+- Phase 1: _Thursday, October 1, 2020, 2:00 pm_
 
 Each student will give a short technical presentation about a project that they worked on during the previous weeks of the phase.
 
