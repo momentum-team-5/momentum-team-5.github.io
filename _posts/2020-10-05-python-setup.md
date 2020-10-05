@@ -9,7 +9,7 @@ Great work this morning, y'all. Here's everything you need to do to set up Pytho
 ### Install exercism
 Open a terminal and enter the following command verbatim (the && chains commands together, but only if the first one doesn't fail):
 	
-	```bash
+	```
 	brew update && brew install exercism
 	```
 
@@ -18,7 +18,7 @@ Exercism is a great tool we'll be using for doing warmup and learning exercises.
 ### Install pipenv
 Open a terminal and enter the following command verbatim:
 	
-	```bash
+	```
 	brew install pipenv
 	```
 
@@ -38,13 +38,13 @@ I'm including a few links to good beginner resources for anyone who's eager to g
 
 ### Quick note on Python 2 vs Python 3
 There are two major versions of Python in common use -- Python 2 and Python 3. Python 2 is no longer updated and support is being withdrawn, but because MacOS uses Python 2 in a few places, Python 2 is the default version. This is annoying and complicates things somewhat, but isn't too difficult to navigate around -- if you're trying out code you found on the internet, and it says (for example):
-	```bash
+	```
 	python a_python_script.py
 	```
 
 you should instead run:
 
-	```bash
+	```
 	python3 a_python_script.py
 	```
 
