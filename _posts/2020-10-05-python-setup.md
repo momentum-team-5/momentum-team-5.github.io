@@ -27,13 +27,13 @@ pipenv is a package management tool that will simplify the task of organizing co
 ### Get to know Python
 I'm including a few links to good beginner resources for anyone who's eager to get started.
 	
-	* [Real Python Python Basics](https://realpython.com/python-basics/)
+	*[Real Python Python Basics](https://realpython.com/python-basics/)
 	
-	* [Official Python Beginner's Resources](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+	*[Official Python Beginner's Resources](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
 	
-	* [Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+	*[Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
 	
-	* [Python Library & Language Documentation (bookmark this site)](https://docs.python.org/3/index.html)
+	*[Python Library & Language Documentation (bookmark this site)](https://docs.python.org/3/index.html)
 
 
 ### Quick note on Python 2 vs Python 3
