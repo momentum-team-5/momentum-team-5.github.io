@@ -26,8 +26,11 @@ I'm including a few links to good beginner resources for anyone who's eager to g
 
 
 -[Real Python Python Basics](https://realpython.com/python-basics/)
+
 -[Official Python Beginner's Resources](https://wiki.python.org/moin/BeginnersGuide/NonProgrammers)
+
 -[Official Python Tutorial](https://docs.python.org/3/tutorial/index.html)
+
 -[Python Library & Language Documentation (bookmark this site)](https://docs.python.org/3/index.html)
 
 
