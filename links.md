@@ -6,9 +6,7 @@ layout: default
 
 # Important links
 
-- [Phase 1 Zoom classroom](https://us02web.zoom.us/j/88017099254?pwd=S0dXVDlNaE1wWU1uTE5mVFFDa0xoZz09)
-  - Meeting ID: 880 1709 9254
-  - Passcode: 095993
+- [Zoom classroom](https://us02web.zoom.us/j/89773940080?pwd=U0tmaGloZTNQWE1icVJkbUg5cWZQQT09)
 - [Zoom co-working room](https://us02web.zoom.us/j/705824048?pwd=Zk55dFpXa09jNGcvS2UramRNRkxyZz09)
 - [Class GitHub organization](https://github.com/momentum-team-5)
   - [code examples from class](https://github.com/momentum-team-5/examples)
