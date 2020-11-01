@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Monday Video, Tomorrow's Homework, and Exercism Reccommendations'
+title: "Monday Video, Tomorrow's Homework, and Exercism Reccommendations"
 tags: phase-2 python python-basics exercism class-video mystery-word
 ---
 
