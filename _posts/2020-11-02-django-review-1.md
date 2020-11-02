@@ -29,6 +29,7 @@ Small groups (use Google Meet or Zoom):
 
 ## Resources
 
+- [Momentum Django project template](https://github.com/momentumlearn/django-project-template)
 - [Data modeling explained in 10 minutes](https://www.credera.com/insights/data-modeling-explained-in-10-minutes-or-less/)
 - [Logical database design using entity-relationship modeling](https://www.ibm.com/support/knowledgecenter/SSEPEK_11.0.0/intro/src/tpc/db2z_logicaldbdesignentityrelationshp.html) - This looks intimidating and is part of a manual for a database we won't use, but is _really good material_.
 - [Django model relationships](https://docs.djangoproject.com/en/3.0/topics/db/models/#relationships)
