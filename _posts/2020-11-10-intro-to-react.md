@@ -8,7 +8,7 @@ Today, we'll start on our journey into React.
 
 ## Assignment
 
-[Complete this tutorial for React](https://welearncode.com/complete-beginners-guide-react-2020/). This will show you the most modern way to build React apps. This project will be in Git, but you will use a repository you make.
+[Complete this tutorial for React](https://welearncode.com/beginners-guide-react-2020/). This will show you the most modern way to build React apps. This project will be in Git, but you will use a repository you make.
 
 If you finish this and would like a second exercise, I recommend one of these other tutorials:
 
