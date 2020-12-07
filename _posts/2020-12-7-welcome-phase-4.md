@@ -20,11 +20,23 @@ The experience of working on a team during this phase and the product you build 
 
 ## Final Project Teams
 
+### TODO before 2:00 pm
+
 Please fill out [this form](https://forms.gle/s1DfRynUwUVq2AwN9) so we can assign people to teams. This form is **completely confidential**.
+
+### TODO tonight
+
+Talk with your team about project ideas. Come prepared tomorrow with one really good idea, or more than one idea if you can't decide. We will discuss and refine together tomorrow.
+
+## Slides
+
+- [Phase Overview](https://drive.google.com/file/d/14y0MVG1eXjvD15AkP8ISQROeT_atxPIP/view?usp=sharing)
+- [Agile Development](https://drive.google.com/file/d/11FdKfcBitBjs7R6Tqkug7oTn9NWdCltQ/view?usp=sharing)
+- [Coming up with your product idea](https://drive.google.com/file/d/1vLEOotRpy3s_scOP6hLOwntxkzZp__on/view?usp=sharing)
 
 ### References
 
 - [Beginner's Guide to Scrum and Agile](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
 - [12 principles from the Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
-- [Command Line Heroes Podcast](https://www.redhat.com/en/command-line-heroes) Produced by RedHat and hosted by Saron Yitbarek, this is a scripted podcast that tells the story of software frmo the last 40-ish years or so. Season 1 has an episode of the origin of Agile Development. The whole series is really well done. If you enjoy understanding the history of things like I do, you will like this podcast!
+- [Command Line Heroes Podcast](https://www.redhat.com/en/command-line-heroes) Produced by RedHat and hosted by Saron Yitbarek, this is a scripted podcast that tells the story of software from the last 40-ish years or so. Season 1 has an episode of the origin of Agile Development. The whole series is really well done. If you enjoy understanding the history of things like I do, you will like this podcast!
 
