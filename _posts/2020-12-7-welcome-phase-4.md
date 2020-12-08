@@ -39,4 +39,3 @@ Talk with your team about project ideas. Come prepared tomorrow with one really 
 - [Beginner's Guide to Scrum and Agile](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
 - [12 principles from the Agile Manifesto](https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/)
 - [Command Line Heroes Podcast](https://www.redhat.com/en/command-line-heroes) Produced by RedHat and hosted by Saron Yitbarek, this is a scripted podcast that tells the story of software from the last 40-ish years or so. Season 1 has an episode of the origin of Agile Development. The whole series is really well done. If you enjoy understanding the history of things like I do, you will like this podcast!
-
