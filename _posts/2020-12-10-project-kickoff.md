@@ -21,6 +21,7 @@ The following checklists will help you know when you are ready to start writing 
   - Make sure you have a `.gitignore` file! You can get one that is specific to your project at [gitignore.io](https://www.toptal.com/developers/gitignore).
 - You are clear on the git and GitHub workflow for your team.
 - 🚨 Make sure you are using `django-environ` and a `.env` file. This will be especially important for secret keys and sensitive info, like AWS credentials. **DON'T COMMIT YOUR SECRET KEYS!**
+- Consider appointing a rotating team lead who can be responsible for running standup, leading at check-in, and looking after the Trello board.
 
 ### ✅ Checklist for the back-end
 
@@ -35,7 +36,6 @@ The following checklists will help you know when you are ready to start writing 
   - Are you returning HTML? -> What templates does the front end need, and who will make those?
   - Are you returning JSON? -? How will you structure your data?
 - Deploy early and often -- who will deploy? Make sure more than one person on your team has the ability to do this.
-- Consider appointing a rotating team lead who can be responsible for running standup, leading at check-in, and looking after the Trello board.
 
 ### ✅ Checklist for the front-end
 
@@ -50,6 +50,7 @@ The following checklists will help you know when you are ready to start writing 
 - General strategy for css and design so that you can budget time for it.
   - Are you using a css library (e.g. Material UI, Bulma, Tachyons)? What is the general look and feel of your app?
   - Start to think about UI/UX and design
+- Deploy early and often -- who will deploy? Make sure more than one person on your team has the ability to do this.
 
 ## Next week and beyond
 
