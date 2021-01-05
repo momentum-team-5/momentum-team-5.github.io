@@ -19,3 +19,8 @@ layout: default
 - [Course outline & info]({% link course-outline.md %})
 - [Team Five Group Agreement]({% link team-charter.md %})
 - [Technical Presentations Info]({% link technical-presentations.md %})
+
+## Phase 4
+
+- [Schedule for final week]({% link phase-4-schedule.md %})
+- [Guide to Presentation Prep]({% link phase-4-demo-guide.md %})
