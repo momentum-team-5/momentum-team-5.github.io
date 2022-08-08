@@ -18,3 +18,4 @@ tags: phase-2 python classes object-oriented-programming oop python-basics
 - [Object Oriented Programming Tutorial in Python](https://www.programiz.com/python-programming/object-oriented-programming)
 - [Common Python Data Structures (Guide)](https://realpython.com/python-data-structures/)
 - [Official Python Tutorial on Classes (pretty advanced)](https://docs.python.org/3/tutorial/classes.html)
+- [Complete Python Tutorial](https://www.scaler.com/topics/python/)
